@@ -1,4 +1,4 @@
-ScalaImageViewer 
+ScalaImageViewer - Windows picture viewer
 
 ScalaImageViewer allows the selection, editing and viewing of jpeg and gif image files and directories containing image files. 
 
